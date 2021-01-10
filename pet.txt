@@ -1,3 +1,6 @@
 dog
 cat
 hamster
+bat
+kow
+noob
